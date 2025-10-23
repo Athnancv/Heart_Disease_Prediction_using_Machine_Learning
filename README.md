@@ -1,11 +1,17 @@
 # Heart_Disease_Prediction_using_Machine_Learning
+
 ## 💓 Predicting Heart Disease with Machine Learning: A Data-Driven Health Risk Assessment using K-Nearest Neighbors (KNN)
 
 Harnessing machine learning to assist in healthcare decisions — a complete pipeline to predict heart disease using K-Nearest Neighbors (KNN) classification and real-world health indicators.
 
+---
+
 ### 📌 Project Overview
 
 This project applies machine learning to predict the likelihood of heart disease based on patient medical data. Using a structured data science pipeline—from data cleaning and exploratory data analysis (EDA) to KNN modeling and evaluation—the project demonstrates how technology can support early risk detection and assist healthcare professionals in decision-making.
+
+
+---
 
 ### 🎯 Objectives
 
