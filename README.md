@@ -25,6 +25,10 @@ Analyze classification metrics for model interpretation
 
 Demonstrate ML’s role in health risk assessment
 
+---
+
+
+
 ### 🗂️ Dataset
 
 The dataset contains medical and demographic information for heart disease classification:
@@ -36,6 +40,9 @@ The dataset contains medical and demographic information for heart disease class
 ⚕️ Chest Pain Type, Exercise-Induced Angina, ST Depression
 
 🎯 Target Variable: HeartDisease (0 = No, 1 = Yes)
+
+---
+
 
 ### 🔍 Key Highlights of the Analysis
 
@@ -73,6 +80,10 @@ Compared performance on training vs. test sets
 
 Analyzed the Confusion Matrix for prediction balance
 
+---
+
+
+
 ### 🛠 Tools & Technologies
 
 Python
@@ -85,10 +96,18 @@ scikit-learn – Machine learning & evaluation
 
 Jupyter Notebook – Interactive analysis environment
 
+
+---
+
+
 ### 💡 Conclusion
 
 This project showcases how K-Nearest Neighbors, a simple yet powerful algorithm, can predict heart disease effectively. With proper EDA, scaling, and tuning, it offers meaningful insights to guide preventive healthcare strategies.
 A highly applicable example for medical analytics and beginner ML practitioners interested in health-tech applications.
+
+
+---
+
 
 ## 🔮 Future Enhancements
 
